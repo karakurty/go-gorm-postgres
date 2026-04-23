@@ -13,4 +13,3 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    open-pull-request-limit: 10
